@@ -1,0 +1,29 @@
+body{
+    background: #FEF7DC;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    color:#A19882 ;
+}
+
+h2{
+    color:#A19882 ;
+}
+
+a{
+    color: #C2B8A3;
+}
+
+p{
+    background: none;
+    color: black;
+    padding: 0px 10x;
+}
+.secondary{
+    background: #E6DDC6;
+}
+
+img{
+    padding: 10px 10px;
+}
